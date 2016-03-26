@@ -34,10 +34,6 @@ https://developer.chrome.com/extensions/api_index
 2) jQuery on the Google Hosted Libraries
 https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js
 
-## Tests
-
-Describe and show how to run the tests with code examples.
-
 ##Contributors
 
 none.
