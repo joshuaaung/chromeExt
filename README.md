@@ -9,8 +9,8 @@ Future plan is to feature extensions which will be based on public inputs, sugge
 
 ## Products
 
-<b>MuteXor</b> - A browser action chrome extension which allows users to "PAUSE" Youtube videos that are playing in other tabs(non-active tabs). This tool is useful when the user opens series of tabs of youtube videos and does not want to go through each tab to pause the videos. 
-User can remain at his/hers current video and pause all other Youtube videos playing in other tabs just by clicking the "MuteXor" action button located at the side of the url/address bar.
+<b>MuteXor</b> - A browser action chrome extension which allows users to "PAUSE" Youtube videos that are playing in other tabs(non-active tabs). This tool is useful when the user opens series of tabs of Youtube videos and does not want to go through each tab to pause the videos. 
+User can remain at his/hers current video and pause all other Youtube videos playing in other tabs just by clicking the <b>MuteXor</b> action button located at the side of the url/address bar.
 
 ## Motivation
 
@@ -18,11 +18,11 @@ The purpose of this self-initiated project is to contribute to the Google Chrome
 
 ## Installation
 
-1) Download the "*.crx" file.<br />
-2) Launch "Google Chrome".<br />
-3) Go to "Window" > "Extensions" (or) Click the three-lined button(a.k.a)hamburger button in the top right-hand corner and go to "Tools" > "Extensions".<br />
-4) Check the box next to "Developer mode" at the top of the page.<br />
-5) Locate the downloaded "*.crx" file on your computer, drag and drop it onto the Extensions page.<br />
+1) Download the <b>"*.crx"</b> file.<br />
+2) Launch <b>"Google Chrome"</b>.<br />
+3) Go to <b>"Window" > "Extensions"</b> (or) Click the <b>three-lined button(a.k.a)hamburger button</b> in the top right-hand corner and go to <b>"Tools" > "Extensions"</b>.<br />
+4) Check the box next to <b>"Developer mode"</b> at the top of the page.<br />
+5) Locate the downloaded <b>"*.crx"</b> file on your computer, drag and drop it onto the Extensions page.<br />
 6) You will be prompted with series of access permissions requests.<br />
 7) Successful installation of the extension is verifiable if a new icon appears at the right side of the url/address bar of your chrome browser.
 
