@@ -9,8 +9,8 @@ Future plan is to feature extensions which will be based on public inputs, sugge
 
 ## Products
 
-<b>MuteXor</b> - A browser action chrome extension which allows users to "PAUSE" Youtube videos that are playing in other tabs(non-active tabs). This tool is useful when the user opens series of tabs of Youtube videos and does not want to go through each tab to pause the videos. 
-User can remain at his/hers current video and pause all other Youtube videos playing in other tabs just by clicking the <b>MuteXor</b> action button located at the side of the url/address bar.
+<b>MuteXor</b> - A browser action chrome extension which allows users to "PAUSE" Youtube videos that are playing in other tabs(non-active tabs). This tool is useful when the user opens series of tabs of Youtube videos and does not want to go through each tab to pause the videos. User may remain at his/hers current video and pause all other Youtube videos playing in other tabs just by clicking the <b>MuteXor</b> action button located at the side of the url/address bar.</br>
+Since the <b>Tab Muting Feature</b> in Chrome is undergoing an experimental phase, I believe <b>MuteXor</b> will come in handy!
 
 ## Motivation
 
