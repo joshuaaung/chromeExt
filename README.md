@@ -24,7 +24,7 @@ The purpose of this self-initiated project is to contribute to the Google Chrome
 4) Check the box next to <b>Developer mode</b> at the top of the page.<br />
 5) Locate the downloaded <b>&#42;.crx</b> file on your computer, drag and drop it onto the Extensions page.<br />
 6) You will be prompted with series of access permissions requests.<br />
-7) Successful installation of the extension is verifiable if a new icon appears at the right side of the url/address bar of your chrome browser.
+7) Successful installation of the extension is verifiable by the new icon appearing at the right side of the url/address bar of your chrome browser.
 
 ## API Reference
 
