@@ -5,7 +5,7 @@ Joshua Aung
 ## Synopsis
 
 This chrome extension project features self-written chrome extensions. Ideas are based on personal preferences and experience.
-Future plan is to feature extensions which will be based on public inputs, suggestions and ideas.
+Future plan is to feature chrome extensions which will be based on public input, suggestion and comment.
 
 ## Products
 
