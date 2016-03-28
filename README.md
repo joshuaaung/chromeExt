@@ -9,9 +9,9 @@ Future plan is to feature extensions which will be based on public inputs, sugge
 
 ## Products
 
-<b>MuteXor</b> - A browser action chrome extension which allows users to "PAUSE" multiple Youtube videos that are playing in other tabs(non-active tabs). This tool is useful when the user opens series of tabs of Youtube videos and does not want to go through each tab to pause the videos. User may remain at his/hers current video and pause all other Youtube videos playing in other tabs just by clicking the <b>MuteXor</b> action button located at the side of the url/address bar.</br>
+<b>MuteXor</b> - A browser action chrome extension which allows users to "PAUSE" multiple Youtube videos that are playing in other tabs(non-active tabs). This tool is useful when the user opens series of tabs of Youtube videos and does not want to go through each tab to pause the videos. User may remain at his/hers current video and pause all other Youtube videos playing in other tabs just by clicking the <b>MuteXor</b> action button located at the right-side of the url/address bar.</br>
 Since the <b>Tab Muting Feature</b> in Chrome is undergoing an experimental phase, I believe <b>MuteXor</b> will come in handy!</br></br>
-<b>traceP</b> - A browser action chrome extension which allows users to go back to the parent tab. Parent tab is defined as the tab which the current page(child tab) originates from. More often than not, many users tend to open new page in a new tab. With <b>traceP</b>, even when there are multiple child tabs opened at the same time, users will be still able to go back to the original page(e.g.:google search result page) in fraction of a second.
+<b>traceP</b> - A browser action chrome extension which allows users to go back to the parent tab. Parent tab is defined as the tab which the current page(child tab) originates from. More often than not, many users tend to open new page in a new tab. With <b>traceP</b>, even when there are multiple child tabs opened at the same time, users will be still able to go back to the original page(e.g.:google search result page) in fraction of a second by clicking the <b>traceP</b> action button located at the right-side of the url/address bar.
 
 ## Motivation
 
