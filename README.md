@@ -15,7 +15,7 @@ Since the <b>Tab Muting Feature</b> in Chrome is undergoing an experimental phas
 
 ## Motivation
 
-The purpose of this self-initiated project is to contribute to the Google Chrome Extensions community and to further hone my coding skills and broaden my technical knowledge.
+The purpose of this self-initiated project is to contribute to the Google Chrome Extensions community and I believe that in this golden age of Internet, browsers play a major role in providing good user experience. As such, these extensions aim to support the Chrome browser in delivering great user experience.
 
 ## Installation
 
